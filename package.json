@@ -1,6 +1,6 @@
 {
   "name": "elementa-parse-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "tool for parsing elementa jats xml",
   "main": "index.js",
   "scripts": {
