@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00005</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.999998</article-id>
+  <article-categories>
+    <subj-group subj-group-type="article-type">
+      <subject>Research Article</subject>
+    </subj-group>
+    <subj-group subj-group-type="category">
+      <subject>Cross-domain</subject>
+    </subj-group>
+    <subj-group subj-group-type="domain">
+      <subject>Ecology</subject>
+    </subj-group>
+    <subj-group subj-group-type="classification">
+      <subject>Ecology</subject>
+      <subj-group>
+        <subject>Ecosystem Ecology</subject>
+      </subj-group>
+      <subj-group>
+        <subject>Biogeography</subject>
+      </subj-group>
+    </subj-group>
+    <subj-group subj-group-type="domain">
+      <subject>Ocean Science</subject>
+    </subj-group>
+    <subj-group subj-group-type="classification">
+      <subject>Ocean Science</subject>
+      <subj-group>
+        <subject>Fisheries Oceanography</subject>
+      </subj-group>
+      <subj-group>
+        <subject>Physical Oceanography</subject>
+      </subj-group>
+      <subj-group>
+        <subject>Regions</subject>
+        <subj-group>
+          <subject>Sub-Arctic Seas</subject>
+          <subject>Atlantic Ocean</subject>
+        </subj-group>
+      </subj-group>
+    </subj-group>
+    <subj-group subj-group-type="feature">
+      <subject>Climate change impacts: Fish, fisheries and fisheries management</subject>
+    </subj-group>
+  </article-categories>
+<title-group>
+<article-title>What's the <bold>worst</bold> that could happen?</article-title>
+<alt-title alt-title-type="short-title">Geoengineering</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Hj&oslash;llo</surname><given-names>S&#xf8;lfrid S.</given-names></name>
+  <xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+  <xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><institution>Big Think Tank</institution>, <addr-line content-type="city">Fairbanks</addr-line>, <addr-line content-type="state">Alaska</addr-line>, <country>United States</country></aff>
+  <aff id="aff2"><label>2</label>
+    <institution content-type="dept">Complaints Department</institution>, <institution>IBM</institution>, <addr-line content-type="city">White Plains</addr-line>, <addr-line content-type="state">New York</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">School of Natural Resources &amp; Environment</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label> <email xlink:type="simple">jack.handy@BTT.org</email></corresp>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2084-9-28">
+<day>28</day>
+<month>09</month>
+<year>2084</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>999998</elocation-id>
+<product>
+  <source>Climate Change Geoengineering: Philosophical Perspectives, Legal Issues, and Governance</source>
+  <person-group person-group-type="author">
+    <name><surname>Schmoe</surname><given-names>Joseph Z.</given-names></name>
+  </person-group>
+  <person-group person-group-type="editor">
+    <name><surname>Burns</surname><given-names>Wil C. G.</given-names></name>
+    <name><surname>Strauss</surname><given-names>Andrew L.</given-names></name>
+  </person-group>
+  <publisher-name>Cambridge University Press</publisher-name>
+  <publisher-loc>Cambridge</publisher-loc>
+  <comment>Product Dimensions: 6 x 0.8 x 9 inches. Language: English</comment>
+  <year>2013</year>
+  <size units="pages">328 p</size>
+  <isbn>1107023939</isbn>
+  <inline-graphic id="cover1" xlink:href="info:doi/10.12952/journal.elementa.999998.b001"/>
+</product>
+<history>
+<date date-type="received" iso-8601-date="2013-07-01">
+<day>01</day>
+<month>07</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-08-02">
+<day>02</day>
+<month>08</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-09-03">
+<day>03</day>
+<month>09</month>
+<year>2013</year>
+</date>
+</history>
+<permissions><copyright-year>2013</copyright-year>
+<copyright-holder>Handy</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<kwd-group>
+<kwd>Anthropocene</kwd>
+<kwd>resilience</kwd>
+<kwd>stewardship</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<p>The world (<xref ref-type="bibr" rid="bibr008">Huxley, 1932</xref>) is ours to control.  Lorem ipsum dolor sit amet, consectetur<sup><xref ref-type="other" rid="en-1">[1]</xref></sup> adipiscing elit. Ut et dui sed velit ullamcorper consequat in quis lorem. Cum sociis natoque penatibus et magnis dis parturient montes<sup><xref ref-type="other" rid="en-2">[2]</xref></sup>, nascetur ridiculus mus. Nullam eu magna sit amet lacus facilisis luctus. Aliquam<sup><xref ref-type="other" rid="en-2">[2]</xref></sup> molestie sapien sodales, finibus metus ut, ornare orci. Nam cursus feugiat nisl, commodo consectetur leo. Nullam sed sagittis mi, id blandit ante. Nunc tristique id magna nec venenatis.</p>
+<sec id="s1" sec-type="copyright-statement">
+<title>Copyright</title>
+<p>© 2013 Handy. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</sec>
+<sec id="someName" sec-type="endnotes">
+<title>Title From XML</title>
+<fn-group>
+<fn id="en-1">
+<p>1. This <italic>EndNote</italic> is not of interest to you. Move along.</p>
+</fn>
+<fn id="en-2">
+<p>2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget pharetra purus. Donec fermentum cursus erat eu scelerisque. Ut ut tincidunt lacus, ut mattis ante. Morbi ipsum nisl, porttitor sed consectetur eu, fringilla vel sapien. Proin scelerisque vulputate nisl, eget ornare dui auctor id. Proin sagittis, quam vitae tincidunt volutpat, lacus enim vulputate sem, id imperdiet tellus lacus ac nisl. Proin hendrerit est eu tellus porta, vitae tincidunt est tempor. Pellentesque in lectus fringilla massa cursus dignissim ac quis tellus. Donec ut massa a mauris luctus accumsan. Curabitur at quam blandit, dictum velit ut, consequat dolor. Nam ornare enim vel diam ullamcorper, ac sagittis arcu ultricies. Etiam vel cursus magna. Proin et lacinia turpis. Aenean luctus molestie odio id cursus.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget pharetra purus. Donec fermentum cursus erat eu scelerisque. Ut ut tincidunt lacus, ut mattis ante. Morbi ipsum nisl, porttitor sed consectetur eu, fringilla vel sapien. Proin scelerisque vulputate nisl, eget ornare dui auctor id. Proin sagittis, quam vitae tincidunt volutpat, lacus enim vulputate sem, id imperdiet tellus lacus ac nisl. Proin hendrerit est eu tellus porta, vitae tincidunt est tempor. Pellentesque in lectus fringilla massa cursus dignissim ac quis tellus. Donec ut massa a mauris luctus accumsan. Curabitur at quam blandit, dictum velit ut, consequat dolor. Nam ornare enim vel diam ullamcorper, ac sagittis arcu ultricies. Etiam vel cursus magna. Proin et lacinia turpis. Aenean luctus molestie odio id cursus.</p>
+</fn>
+</fn-group>
+</sec>
+</body>
+<back>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr008">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Huxley</surname><given-names>A</given-names></name>.
+<year>1932</year>.
+<source>Brave New World</source>.
+<publisher-loc>London</publisher-loc>:
+<publisher-name>Chatto and Windus</publisher-name>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

@@ -1,0 +1,23 @@
+{
+  "name": "elementa-parse-utils",
+  "version": "0.1.0",
+  "description": "tool for parsing elementa jats xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "author": "Dave Green",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "node-readme": "^0.1.9",
+    "xmldom": "^0.1.22",
+    "xpath": "0.0.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greendavegreen/elementaParseUtils.git"
+  }
+}
