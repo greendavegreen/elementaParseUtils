@@ -2,7 +2,7 @@
   "name": "elementa-parse-utils",
   "version": "0.1.1",
   "description": "tool for parsing elementa jats xml",
-  "main": "index.js",
+  "main": "parser.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha",
     "readme": "node ./node_modules/.bin/node-readme"
