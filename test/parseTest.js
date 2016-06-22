@@ -9,8 +9,7 @@ describe('parserTest', function() {
 
     before(function() {
         var data = fs.readFileSync('test/elementa.999998.xml', 'utf8');
-        var parser = new ap(data);
-        article = parser.newArticle();
+        article = ap.newArticle(data);
     });
 
     describe('#newArticle()', function () {
@@ -20,7 +19,7 @@ describe('parserTest', function() {
         it('should find 2 domains', function () {
             assert.deepEqual([ 'Ecology', 'Ocean Science' ], article.domains);
         });
-        it('should find 2 domains', function () {
+        it('should find pub date', function () {
             assert.equal(new Date("2084-9-28").getTime(), article.pub_date);
         });
         it('should find 1 author', function () {
@@ -28,7 +27,7 @@ describe('parserTest', function() {
                                  surname: "Hj&oslash;llo",
                                  "email": "jack.handy@BTT.org",
                                  affs: [
-                                     
+
                                      {
                                          "city": "Fairbanks",
                                          "country": "United States",
